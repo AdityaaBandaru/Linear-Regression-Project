@@ -30,6 +30,15 @@ This project applies a simple linear regression model to predict student test sc
 - The model shows a strong positive linear relationship between study hours and scores.
 - It can reasonably predict scores for new data within the training range.
 
+
+### 📊 Model Visualization
+
+**Training Set:**
+![image](https://github.com/user-attachments/assets/3e808d98-e16c-4bdd-b074-71e8be6d85a2)
+
+**Test Set:**
+![image](https://github.com/user-attachments/assets/2b0489f2-bf11-416d-b66e-4708f7bea58b)
+
 ---
 
 ## 🛠️ Tech Stack
