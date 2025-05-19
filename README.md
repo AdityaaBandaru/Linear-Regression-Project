@@ -36,7 +36,7 @@ This project applies a simple linear regression model to predict student test sc
 
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
+- Matplotlib
 - Scikit-learn
 
 ---
