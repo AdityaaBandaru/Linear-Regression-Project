@@ -49,3 +49,6 @@ This project applies a simple linear regression model to predict student test sc
 - Scikit-learn
 
 ---
+
+🧑‍💻 Author
+Adityaa Bandaru
